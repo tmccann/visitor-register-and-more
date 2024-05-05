@@ -1,0 +1,13 @@
+.btn-container{
+    display: flex;
+   
+    justify-content: center;
+}
+
+.btn-container button{
+    margin:2rem 0.5rem;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background: #36454F;
+    color: aliceblue;
+}
